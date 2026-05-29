@@ -5,8 +5,8 @@
 # submission deadlines
 ## 1. December 1 - January 31
 ## 2. March 1 - April 1 
-## 3. May 1 - June 31
-## 4. September 1 - November 31
+## 3. June 1 - July 31
+## 4. September 1 - October 31
 # Author's Guide: Rules of the Youth Journal of Research Surveys YJRS:
 ## 1. Who can publish?
 ## • Age of authors: from 14 to 20 years old.

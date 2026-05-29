@@ -3,10 +3,10 @@
 # About us
 ## Many student projects suffer from a "data scarcity" problem — small, localized sample sizes that limit the scope of their findings. YJRS bridges this gap by providing a centralized, international hub where students can publish their research surveys, reach a diverse global audience. All surveys hosted on YJRS undergo a preliminary editorial review to ensure they meet our ethical guidelines and academic standards. By centralizing youth-led inquiries, we aim to transform student projects into meaningful contributions to the global academic discourse.
 # submission deadlines
-## 1 December 1 - January 31
-## 2 March 1 - April 1 
-## 3 May 1 - June 31
-## 4 September 1 - November 31
+## 1. December 1 - January 31
+## 2. March 1 - April 1 
+## 3. May 1 - June 31
+## 4. September 1 - November 31
 # Author's Guide: Rules of the Youth Journal of Research Surveys YJRS:
 ## 1. Who can publish?
 ## • Age of authors: from 14 to 20 years old.
